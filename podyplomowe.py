@@ -1,2 +1,3 @@
-student='Krzysztof'
-print('Hello, my name is',student,'.')
+Imie='Krzysztof'
+Nazwisko='Hanula'
+print('Hello, my name is',Imie,Nazwisko,'.')

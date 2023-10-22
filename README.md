@@ -1,2 +1,2 @@
 # podyplomowe 
-# Przedstawienie się imienne.
+![](D:\pobrane.png)
